@@ -1,5 +1,13 @@
 # Deep Learning Institute (DLI) Teaching Kit Lab/solution Repository
 
+Being actively modified by </br>
+Author: </br>
+- Renan Monteiro Barbosa</br>
+
+## Objective
+Add more labs and lectures to explore and use as a collection of knowledge.</br>
+
+## Intro
 Welcome to the DLI Teaching Kit Lab/solution repository. The kit and associated labs are produced jointly by NVIDIA and New York University (NYU).  All material is available under the [Creative Commons Attribution-NonCommercial License](http://creativecommons.org/licenses/by-nc/4.0/).
 
 The labs are designed to be open-ended, multidisciplinary, one- to three-week programming and written assignments for students. Each lab contains a description, sample code, sample solutions and suggestions on how instructors can evaluate and have students submit solutions. 
